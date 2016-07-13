@@ -1,0 +1,43 @@
+
+
+/*.btn-primary {
+    color: #fff;
+    background-color: #0f7ede;
+    border-color: #2e6da4;
+     text-align: right; 
+    margin-bottom: -13px;
+}
+*/
+   .panel-body {
+    padding: 26px;
+    /* margin-top: 2px; */
+    text-align: center;
+}
+
+.panel-primary .panel{
+    border-color: green;
+    margin-top: 10px;
+}
+
+
+#registrar {
+    border-radius: 29px;
+    margin-bottom: 9px;
+}
+/*
+.form-group {
+    margin-bottom: 2px;
+}*/
+
+#buscar{
+   
+    margin-top: -10px;
+    display: inline-block;
+}
+
+#busqueda{
+        width: 39%;
+    /* text-align: center; */
+    margin: auto;
+    display: inline-block;
+}
